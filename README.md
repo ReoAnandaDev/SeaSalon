@@ -47,7 +47,7 @@ Salon Booking Manager is a cross-platform mobile application built using Flutter
 
 1. **Clone the repository:**  
    ```bash  
-   git clone https://github.com/yourusername/salon-booking-manager.git  
+   git clone https://github.com/ReoAnandaDev/SeaSalon.git 
    cd salon-booking-manager  
 
 2. **Install dependencies:**  
